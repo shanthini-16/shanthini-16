@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Shanthini, a Final Year CSE Student.<br>🚀 Passionate about building projects and growing as a Software Developer.<br><br>🔭 I’m currently working on AI-powered and Full-Stack Web Development projects<br>👯 I’m looking to collaborate on Machine Learning, Generative AI, and Web Development projects<br>🤝 I’m looking for help with Advanced DSA, System Design, and Deep Learning<br>🌱 I’m currently learning React.js, Flask, Data Structures & Algorithms, and Generative AI<br>💬 Ask me about Python, Flask, React.js, Machine Learning, DBMS, and OOP<br>⚡ Fun fact: I enjoy transforming real-world problems into practical software solutions
+Computer Science Engineering student and Generative AI Intern with a strong interest in Python, Artificial Intelligence, Machine Learning, and Generative AI. I enjoy building AI-powered applications and working with technologies such as Python, Flask, APIs, NLP, and databases. Currently improving my Data Structures & Algorithms and problem-solving skills while exploring new AI technologies and developing practical projects
 
 
 ## 🌐 Socials:
